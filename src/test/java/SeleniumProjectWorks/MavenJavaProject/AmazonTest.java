@@ -15,5 +15,10 @@ public class AmazonTest {
 	{
 		System.out.println("Text Sorted successfully ");
 	}
+	@Test
+	public void sortedText()
+	{
+		System.out.println("Git successfully ");
+	}
 
 }
